@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div>
-      <OrangeVegetables/>
-      <Time/>
-      <Text/>
+      <OrangeVegetables />
+      <p>fererw</p>
+      <Time />
+      <Text />
     </div>
   );
 }
